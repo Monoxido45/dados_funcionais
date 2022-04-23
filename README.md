@@ -1,3 +1,5 @@
+Link da aula:  https://www.youtube.com/watch?v=mAeHa15prh0
+
 ## Arquivos
 
 ### Introducao_DadosFuncionais.R
